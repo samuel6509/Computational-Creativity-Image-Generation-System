@@ -1,3 +1,6 @@
+Here is the route my paper on this project: PROJECT-REPORT+VIDEO/sw734_computational_creativity_report.pdf
+Here is the route to my video on this project: PROJECT-REPORT+VIDEO/COMP6590_video.mp4
+
 Welcome to my computataional creativity project, here you will find all the preequisites you will need in order to run the project.
 
 RUNNING THE PROJECT:
